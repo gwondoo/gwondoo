@@ -35,7 +35,7 @@ focus     Reliable backend systems and production problem solving
 
 ## Stats
 
-<img height="150"  src="https://github-readme-stats.vercel.app/api?username=gwondoo&show_icons=true&hide_border=true&hide_title=true&theme=transparent" alt="GitHub stats" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwondoo&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gwondoo&theme=github_dark" alt="GitHub stats" /> <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gwondoo&theme=github_dark" alt="Repositories per language" />
 
 ## Contact
 
