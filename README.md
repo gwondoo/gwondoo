@@ -33,9 +33,13 @@ focus     Reliable backend systems and production problem solving
 
 </details>
 
-## Stats
+<br>
 
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gwondoo&theme=github_dark" alt="GitHub stats" /> <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gwondoo&theme=github_dark" alt="Repositories per language" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gwondoo/gwondoo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gwondoo/gwondoo/output/github-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/gwondoo/gwondoo/output/github-snake.svg" alt="GitHub contribution snake animation" />
+</picture>
 
 ## Contact
 
