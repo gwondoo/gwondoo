@@ -1,0 +1,19 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="260" rx="16" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="258" rx="15" stroke="#30363D" stroke-width="2"/>
+
+  <rect x="1" y="1" width="1198" height="48" rx="15" fill="#161B22"/>
+  <path d="M1 33C1 24.7157 7.71573 18 16 18H1184C1192.28 18 1199 24.7157 1199 33V48H1V33Z" fill="#161B22"/>
+  <path d="M1 48H1199" stroke="#30363D" stroke-width="2"/>
+
+  <circle cx="28" cy="25" r="6.5" fill="#FF5F57"/>
+  <circle cx="50" cy="25" r="6.5" fill="#FEBC2E"/>
+  <circle cx="72" cy="25" r="6.5" fill="#28C840"/>
+  <text x="600" y="31" fill="#8B949E" text-anchor="middle" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">gwondoo</text>
+
+  <text x="44" y="125" fill="#F0F6FC" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="48" font-weight="700">gwondoo</text>
+  <text x="46" y="169" fill="#C9D1D9" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="24">Backend Developer</text>
+  <text x="46" y="211" fill="#8B949E" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">API  ·  Database  ·  Deployment  ·  Operations</text>
+
+  <rect x="46" y="230" width="120" height="3" rx="1.5" fill="#7EE787"/>
+</svg>
